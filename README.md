@@ -44,20 +44,17 @@ Approximately **95% of the dataset is sourced from official international organi
 
 The dataset was compiled and validated using publicly available information from internationally recognized organizations, including:
 
-- Our World in Data  
-  https://ourworldindata.org/
+## 🌐 Data Sources
 
-- International Energy Agency (IEA)  
-  https://www.iea.org/
+The dataset was compiled and validated using publicly available information from internationally recognized organizations.
 
-- World Bank Open Data  
-  https://data.worldbank.org/
-
-- U.S. Energy Information Administration (EIA)  
-  https://www.eia.gov/
-
-- BP Statistical Review of World Energy (Historical Data)
-  https://www.bp.com/
+| Organization | Description | Official Website |
+|--------------|-------------|------------------|
+| **Our World in Data** | Global energy, electricity generation, emissions, and sustainability datasets | https://ourworldindata.org/ |
+| **International Energy Agency (IEA)** | Global energy statistics, electricity production, and policy data | https://www.iea.org/ |
+| **World Bank Open Data** | Economic, population, and energy-related indicators | https://data.worldbank.org/ |
+| **U.S. Energy Information Administration (EIA)** | International electricity generation and energy statistics | https://www.eia.gov/ |
+| **BP Statistical Review of World Energy** | Historical global energy production and consumption data | https://www.bp.com/ |
 
 ---
 
